@@ -20,9 +20,9 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
     'I am a graduate student working towards a MS in CS. My interests lie in Machine Learning, Artificial Intelligence, and Biotechnology.',
-  // paragraphTwo: '',
-  // paragraphThree: '',
-  // resume: '', // if no resume, the button will not show up
+  paragraphTwo: ' ',
+  paragraphThree: ' ',
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -32,9 +32,9 @@ export const projectsData = [
     img: 'project.png',
     title: "What I'm Doing",
     info: 'Currently, I am working on a couple of projects for school courses. These projects involve data and data visualizations.',
-    // info2: '',
-    // url: '',
-    // repo: '', // if no repo, the button will not show up
+    info2: ' ',
+    url: '',
+    repo: '', // if no repo, the button will not show up
   },
   // {
   //   id: nanoid(),
